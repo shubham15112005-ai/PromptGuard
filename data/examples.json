@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Weak academic prompt",
+    "prompt": "Explain machine learning."
+  },
+  {
+    "name": "Weak technical prompt",
+    "prompt": "Write a good Python program for data analysis."
+  },
+  {
+    "name": "Specific prompt",
+    "prompt": "Act as a university professor. Explain convolutional neural networks to a beginner using headings, one simple example, and five exam points."
+  }
+]
